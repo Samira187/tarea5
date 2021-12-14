@@ -1,0 +1,18 @@
+.contenedor_principal{
+    width:100%
+    display:block!important;
+}
+.con_marco{
+    display:inline-block;/*Aqui esta la clace para los bloques*/
+    border:1px;
+    border-style:solid;
+    text-align:center;
+    width:200px;
+    padding:15px;
+}
+.flota_izquierda{
+    floata:left;
+}
+.floata_derecha{
+    floata:right;
+}
